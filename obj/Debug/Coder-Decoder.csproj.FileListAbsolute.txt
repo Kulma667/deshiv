@@ -1,0 +1,6 @@
+C:\Users\Kul\source\repos\Coder-Decoder\bin\Debug\Coder-Decoder.exe
+C:\Users\Kul\source\repos\Coder-Decoder\bin\Debug\Coder-Decoder.pdb
+C:\Users\Kul\source\repos\Coder-Decoder\obj\Debug\Coder-Decoder.csproj.AssemblyReference.cache
+C:\Users\Kul\source\repos\Coder-Decoder\obj\Debug\Coder-Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Kul\source\repos\Coder-Decoder\obj\Debug\Coder-Decoder.exe
+C:\Users\Kul\source\repos\Coder-Decoder\obj\Debug\Coder-Decoder.pdb
